@@ -1,0 +1,212 @@
+{
+  "hotelName": "CAW dream villa",
+  "slug": "caw-dream-villa",
+  "template": "tropical",
+  "data": {
+    "name": "CAW dream villa",
+    "zone": "Ahangama",
+    "phone": "076 219 4720",
+    "booking_url": "https://www.booking.com/searchresults.html?ss=CAW+dream+villa+Sri+Lanka",
+    "booking_search": "https://www.booking.com/searchresults.html?ss=CAW+dream+villa+Sri+Lanka",
+    "instagram": "",
+    "google_maps_url": "https://maps.google.com/?cid=3193513698260508540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Pehettuwaththa, Imaduwa Road, Ahangama 80650, Sri Lanka"
+  },
+  "options": {
+    "static": true,
+    "skipPhotos": false,
+    "deploy": false
+  },
+  "content": {
+    "siteSettings": {
+      "name": "CAW dream villa",
+      "tagline": "Your escape in Ahangama, Sri Lanka",
+      "contact": {
+        "phone": "076 219 4720",
+        "whatsapp": "0762194720",
+        "email": "info@caw-dream-villa.com",
+        "address": "Pehettuwaththa, Imaduwa Road, Ahangama 80650, Sri Lanka"
+      },
+      "booking": {
+        "url": "https://www.booking.com/searchresults.html?ss=CAW+dream+villa+Ahangama+Sri+Lanka",
+        "buttonText": "Book Now"
+      },
+      "social": {
+        "instagram": "",
+        "googleMaps": "https://maps.google.com/?cid=3193513698260508540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "seo": {
+        "title": "CAW dream villa | Beachfront Hotel in Ahangama, Sri Lanka",
+        "description": "Experience paradise at CAW dream villa. Steps from the beach Ahangama, Sri Lanka. Perfect for surfers and beach lovers."
+      },
+      "mainImage": "/images/hotel/photo-01.jpg"
+    },
+    "homepage": {
+      "hero": {
+        "title": "Welcome to CAW dream villa",
+        "subtitle": "Your beachfront escape in Ahangama",
+        "ctaText": "Book Your Stay",
+        "ctaUrl": "https://www.booking.com/searchresults.html?ss=CAW+dream+villa+Ahangama+Sri+Lanka",
+        "backgroundImage": "/images/hotel/photo-01.jpg"
+      },
+      "about": {
+        "title": "About Us",
+        "description": "Nestled along the beautiful coast of Ahangama, CAW dream villa offers an unforgettable experience in Sri Lanka's southern coast. Whether you're here for world-class surf breaks or simply to unwind by the ocean, we provide the perfect blend of comfort and authentic Sri Lankan hospitality.",
+        "image": "/images/hotel/photo-02.jpg"
+      },
+      "features": [
+        {
+          "title": "Beachfront Location",
+          "description": "Steps away from pristine sandy beaches",
+          "icon": "location"
+        },
+        {
+          "title": "Local Experience",
+          "description": "Immerse yourself in authentic Sri Lankan culture and cuisine",
+          "icon": "culture"
+        },
+        {
+          "title": "Surf Paradise",
+          "description": "Access to world-renowned surf breaks",
+          "icon": "surf"
+        }
+      ],
+      "gallery": {
+        "title": "Gallery",
+        "subtitle": "Discover our paradise",
+        "images": [
+          {
+            "src": "/images/hotel/photo-01.jpg",
+            "alt": "CAW dream villa - Photo 1",
+            "caption": "CAW dream villa"
+          },
+          {
+            "src": "/images/hotel/photo-02.jpg",
+            "alt": "CAW dream villa - Photo 2",
+            "caption": "CAW dream villa - Vue 2"
+          },
+          {
+            "src": "/images/hotel/photo-03.jpg",
+            "alt": "CAW dream villa - Photo 3",
+            "caption": "CAW dream villa - Vue 3"
+          },
+          {
+            "src": "/images/hotel/photo-04.jpg",
+            "alt": "CAW dream villa - Photo 4",
+            "caption": "CAW dream villa - Vue 4"
+          },
+          {
+            "src": "/images/hotel/photo-05.jpg",
+            "alt": "CAW dream villa - Photo 5",
+            "caption": "CAW dream villa - Vue 5"
+          },
+          {
+            "src": "/images/hotel/photo-06.jpg",
+            "alt": "CAW dream villa - Photo 6",
+            "caption": "CAW dream villa - Vue 6"
+          },
+          {
+            "src": "/images/hotel/photo-07.jpg",
+            "alt": "CAW dream villa - Photo 7",
+            "caption": "CAW dream villa - Vue 7"
+          },
+          {
+            "src": "/images/hotel/photo-08.jpg",
+            "alt": "CAW dream villa - Photo 8",
+            "caption": "CAW dream villa - Vue 8"
+          },
+          {
+            "src": "/images/hotel/photo-09.jpg",
+            "alt": "CAW dream villa - Photo 9",
+            "caption": "CAW dream villa - Vue 9"
+          },
+          {
+            "src": "/images/hotel/photo-10.jpg",
+            "alt": "CAW dream villa - Photo 10",
+            "caption": "CAW dream villa - Vue 10"
+          }
+        ]
+      },
+      "cta": {
+        "title": "Ready for Paradise?",
+        "description": "Book your stay at CAW dream villa and discover the magic of Ahangama.",
+        "buttonText": "Check Availability",
+        "buttonUrl": "https://www.booking.com/searchresults.html?ss=CAW+dream+villa+Ahangama+Sri+Lanka",
+        "backgroundImage": "/images/hotel/photo-10.jpg"
+      }
+    },
+    "footer": {
+      "copyright": "2026 CAW dream villa. All rights reserved.",
+      "address": "Pehettuwaththa, Imaduwa Road, Ahangama 80650, Sri Lanka",
+      "phone": "076 219 4720"
+    },
+    "gallery": [
+      {
+        "src": "/images/hotel/photo-01.jpg",
+        "alt": "CAW dream villa - Photo 1",
+        "caption": "CAW dream villa"
+      },
+      {
+        "src": "/images/hotel/photo-02.jpg",
+        "alt": "CAW dream villa - Photo 2",
+        "caption": "CAW dream villa - Vue 2"
+      },
+      {
+        "src": "/images/hotel/photo-03.jpg",
+        "alt": "CAW dream villa - Photo 3",
+        "caption": "CAW dream villa - Vue 3"
+      },
+      {
+        "src": "/images/hotel/photo-04.jpg",
+        "alt": "CAW dream villa - Photo 4",
+        "caption": "CAW dream villa - Vue 4"
+      },
+      {
+        "src": "/images/hotel/photo-05.jpg",
+        "alt": "CAW dream villa - Photo 5",
+        "caption": "CAW dream villa - Vue 5"
+      },
+      {
+        "src": "/images/hotel/photo-06.jpg",
+        "alt": "CAW dream villa - Photo 6",
+        "caption": "CAW dream villa - Vue 6"
+      },
+      {
+        "src": "/images/hotel/photo-07.jpg",
+        "alt": "CAW dream villa - Photo 7",
+        "caption": "CAW dream villa - Vue 7"
+      },
+      {
+        "src": "/images/hotel/photo-08.jpg",
+        "alt": "CAW dream villa - Photo 8",
+        "caption": "CAW dream villa - Vue 8"
+      },
+      {
+        "src": "/images/hotel/photo-09.jpg",
+        "alt": "CAW dream villa - Photo 9",
+        "caption": "CAW dream villa - Vue 9"
+      },
+      {
+        "src": "/images/hotel/photo-10.jpg",
+        "alt": "CAW dream villa - Photo 10",
+        "caption": "CAW dream villa - Vue 10"
+      }
+    ]
+  },
+  "bookingUrl": "https://www.booking.com/searchresults.html?ss=CAW+dream+villa+Ahangama+Sri+Lanka",
+  "photos": [
+    "photo-01.jpg",
+    "photo-02.jpg",
+    "photo-03.jpg",
+    "photo-04.jpg",
+    "photo-05.jpg",
+    "photo-06.jpg",
+    "photo-07.jpg",
+    "photo-08.jpg",
+    "photo-09.jpg",
+    "photo-10.jpg"
+  ],
+  "generatedAt": "2026-01-06T23:32:06.559Z"
+}
